@@ -1,2 +1,18 @@
-# TAPWM-2026
-Este repositório aloca as atividades desenvolvidas para a matéria de Técnicas Avançadas de Programação Web e Mobile do curso ADS-AMS da FATEC Zona Leste
+# 👽 Técnicas Avançadas de Programação Web e Mobile - 2026
+
+<br>
+
+## 🤓 Descrição
+
+> Matéria focada no aprimoramento dos conhecimentos de desenvolvimento web e mobile por meio da apresentação de novas tecnologias e frameworks.
+
+<br>
+
+## 📇 Atividades do Repositório :
+
+### 🚪 App Login
+Primeira parte de um aplicativo desenvolvido usando React Native.
+- 🚪 [Primeiro App](https://github.com/RgoSL/TAPWM-2026/tree/Ativ00) 
+<br>
+
+---
