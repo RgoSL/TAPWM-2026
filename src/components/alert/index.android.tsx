@@ -1,0 +1,1 @@
+// Classe Destinada as Especificidades do Alert na Versão Android

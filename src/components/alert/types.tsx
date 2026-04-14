@@ -1,0 +1,1 @@
+// Classe de Interface do Alert Criado

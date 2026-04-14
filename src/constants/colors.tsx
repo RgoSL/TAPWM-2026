@@ -1,0 +1,1 @@
+// Classe Destinada a Setar Todas as Cores Utilizadas no App

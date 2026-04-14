@@ -1,0 +1,1 @@
+// Classe Base Para a Criação do Componente Alert
