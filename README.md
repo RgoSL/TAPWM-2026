@@ -11,8 +11,13 @@
 ## 📇 Atividades do Repositório :
 
 ### 🚪 App Login
-Primeira parte de um aplicativo desenvolvido usando React Native.
-- 🚪 [Primeiro App](https://github.com/RgoSL/TAPWM-2026/tree/Ativ00) 
+Primeira parte de um aplicativo desenvolvido usando React Native. Foco em Routers e Componentes.
+- 🚪 [Parte I](https://github.com/RgoSL/TAPWM-2026/tree/Ativ00) 
+<br>
+
+### ⚠️ App Alert
+Segunda parte de um aplicativo desenvolvido usando React Native. Foco em multiplataforma.
+- ⚠️ [Parte II](https://github.com/RgoSL/TAPWM-2026/tree/Ativ01) 
 <br>
 
 ---
